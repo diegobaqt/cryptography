@@ -1,5 +1,7 @@
 # By diegobaqt
 # Learn more about Hill Cipher in http://crypto.interactive-maths.com/hill-cipher.html
+# See more algorithms at https://github.com/diegobaqt/cryptography
+
 import sys
 import numpy
 
